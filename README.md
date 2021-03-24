@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kraltwo?style=for-the-badge)
+[![Follow @kraltwo on Twitter](https://img.shields.io/twitter/follow/kraltwo?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkraltwo&screen_name=kraltwo)
+[<img align="right" alt="cetinardal | Acclaim" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/acclaim.svg" />][Acclaim]
+[<img align="right" alt="cetinardal | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/linkedin.svg" />][LinkedIn]<br />
+
+[linkedIn]: https://www.linkedin.com/in/cetinardal/
+[Acclaim]: https://www.youracclaim.com/users/cetin-ardal/badges
