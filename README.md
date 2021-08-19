@@ -2,7 +2,7 @@
 
 My name is Çetin, kral2 is my online alter ego.
 
-[I work at Oracle][LinkedIn] in the Consulting organization as an IaaS Architect.  
+[I work at Oracle][LinkedIn] in the Consulting organization as Cloud Architect on IaaS and Automation.  
 TL;DR - I am a "learn it all" kind of person, and always eager to share back :smile:
 
 I am focusing on anything OCI since I joined Oracle in 2018 with a big emphasing on automation, and my favorite tools for the task are Terraform, Packer and Ansible. Morphing into Pythonista mode when things gets serious.
