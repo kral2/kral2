@@ -14,7 +14,7 @@ When I don't craft things, I draw boxes and lines on whiteboards. Eventually wit
 
 ---
 
-My previous areas of expertise are mainly around Data Center/Infrastructure stuff (Systems, Virtualization, Storage, Networking, HCI) and End-User Computing. This is reflected in [my certification graveyard][Acclaim]: VMware (VCP-DCV x3), Citrix (CCIA/CCE-V) & Cisco (CCNP DC) are amongst the tombstones you can see. Others precede the online badges trend and will receive no love in this world.
+My previous areas of expertise are mainly around Data Center/Infrastructure stuff (Systems, Virtualization, Storage, Networking, HCI) and End-User Computing. This is reflected in [my certification graveyard][Acclaim]: VMware (VCP-DCV x3), Citrix (CCIA/CCE-V) & Cisco (CCNP DC) are amongst the tombstones you can see. Other certifications precedes the online badges trend and will receive no love in this world.
 
 
 <!--
