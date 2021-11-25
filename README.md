@@ -7,8 +7,8 @@ TL;DR - I am a "learn it all" kind of person, and always eager to share back :sm
 
 I am focusing on anything OCI since I joined Oracle in 2018 with a big emphasing on automation, and my favorite tools for the task are Terraform, Packer and Ansible. Morphing into Pythonista mode when things gets serious.
 
-- 🔭 currently working on [Terraform modules for OCI](https://registry.terraform.io/browse/modules?provider=oci). Focus on [VCN], [Compute] and [IAM].
-- 🌱 currently learning GitHub centric automation tools and workflows to enable GitOps approaches for small teams
+- 🔭 contributing to [Terraform modules for OCI](https://registry.terraform.io/browse/modules?provider=oci). I am a maintainer for [VCN], [Compute] and [IAM].
+- 🌱 learning GitHub centric automation tools and workflows to enable GitOps approaches for small teams
 
 When I don't craft things, I draw boxes and lines on whiteboards. Eventually with some smiling clouds.
 
