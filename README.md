@@ -2,15 +2,16 @@
 
 My name is Çetin, kral2 is my online alter ego.
 
-[I work at Oracle][LinkedIn] in the Consulting organization as Cloud Architect on IaaS and Automation.  
+[I work at HashiCorp][LinkedIn] as a Customer Success Architect.
 TL;DR - I am a "learn it all" kind of person, and always eager to share back :smile:
 
-I am focusing on anything OCI since I joined Oracle in 2018 with a big emphasing on automation, and my favorite tools for the task are Terraform, Packer and Ansible. Morphing into Pythonista mode when things gets serious.
+I was focused on anything Oracle Cloud Infrastructure since I joined Oracle in 2018 with a big emphasing on automation, and my favorite tools for the task were [Terraform], [Packer] and Ansible. Morphing into Pythonista mode when things gets serious.
 
-- 🔭 contributing to [Terraform modules for OCI](https://registry.terraform.io/browse/modules?provider=oci). I am a maintainer for [VCN], [Compute] and [IAM].
-- 🌱 learning GitHub centric automation tools and workflows to enable GitOps approaches for small teams
+- 🔭 working on anything related to the [hashistack]
+- 🔭 contributing to [Terraform modules for OCI](https://registry.terraform.io/browse/modules?provider=oci). I am a maintainer for [VCN], [Compute] and [IAM]
+- 🌱 learning GitHub centric automation tools and workflows
 
-When I don't craft things, I draw boxes and lines on whiteboards. Eventually with some smiling clouds.
+When I don't craft things, I draw boxes and lines on (virtual) whiteboards. Eventually with some smiling clouds.
 
 ---
 
@@ -41,3 +42,7 @@ Here are some ideas to get you started:
 [VCN]: https://github.com/oracle-terraform-modules/terraform-oci-vcn
 [Compute]: https://github.com/oracle-terraform-modules/terraform-oci-compute-instance
 [IAM]: https://github.com/oracle-terraform-modules/terraform-oci-iam
+
+[hashistack]: https://www.hashicorp.com/cloud-operating-model
+[Terraform]: https://www.terraform.io/
+[Packer]: https://www.packer.io/
