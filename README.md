@@ -5,7 +5,7 @@ My name is Çetin, kral2 is my online alter ego.
 [I work at HashiCorp][LinkedIn] as a Customer Success Architect.
 TL;DR - I am a "learn it all" kind of person, and always eager to share back :smile:
 
-I was focused on anything Oracle Cloud Infrastructure since I joined Oracle in 2018 with a big emphasing on automation, and my favorite tools for the task were [Terraform], [Packer] and Ansible. Morphing into Pythonista mode when things gets serious.
+I was focused on anything Oracle Cloud Infrastructure since I joined Oracle in 2018 with a big emphasising on automation, and my favorite tools for the task were [Terraform], [Packer] and Ansible. Morphing into Pythonista mode when things gets serious.
 
 - 🔭 working on anything related to the [hashistack]
 - 🔭 contributing to [Terraform modules for OCI](https://registry.terraform.io/browse/modules?provider=oci). I am a maintainer for [VCN], [Compute] and [IAM]
